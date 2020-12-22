@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working at Innotech Company
+📫 How to reach me: lenhattan2313@gmail.com
 <!--
 **lenhattan2313/lenhattan2313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
