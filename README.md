@@ -4,7 +4,7 @@
 * Friendly, careful, hardworking 🤞
 
 
-🔭 I’m currently working at Innotech Company
+🔭 I’m currently working at HCL Company
 
 📫 How to reach me: lenhattan2313@gmail.com
 
