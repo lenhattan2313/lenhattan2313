@@ -9,8 +9,7 @@
 📫 How to reach me: lenhattan2313@gmail.com
 
 [My LinkedIn](https://www.linkedin.com/in/lenhattan2313/)
-## Project that I made
-* Shopping Card. [See more]()
+
 
 <!--
 **lenhattan2313/lenhattan2313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
