@@ -1,4 +1,4 @@
-![Markdown Logo](https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg)
+![Markdown Logo](https://www.paragyte.com/img/React_Banner.png)
 # Tan Le - Web developer 🚀🚀🚀
 * Enjoy working with Javascript, ReactJS 💖
 * Friendly, careful, hardworking 🤞
