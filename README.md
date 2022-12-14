@@ -1,6 +1,6 @@
 ![Markdown Logo](https://www.paragyte.com/img/React_Banner.png)
 # Tan Le - Web developer 🚀🚀🚀
-* Enjoy working with Javascript, ReactJS 💖
+* Enjoy working with Javascript, ReactJS, NextJS 💖
 * Friendly, careful, hardworking 🤞
 
 
